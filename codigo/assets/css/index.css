@@ -1,0 +1,76 @@
+/*Configuracoes Gerais*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Cabecalho*/
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(19, 173, 173);
+    min-height: 15vh;
+    flex-wrap: wrap;
+}
+
+/*Divs do Cabecalho*/
+header div{
+    padding: 10px;
+
+}
+
+/*Paragrafos das Divs do Cabecalho*/
+header div p{
+    font-weight:bold ;
+    margin: 5px;
+}
+
+
+/*Meio da Pagina*/
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 75vh;
+}
+
+/*Divs do meio da pagina*/
+main div{
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*Inputs do meio da pagina*/
+main input{
+    margin-left: 10px;
+}
+
+/*Classe btnConvert*/
+.btnConvert{
+    padding: 3px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: green;
+    font-weight: bold;
+}
+
+/*Classe btnConvert ao passar o mouse*/
+.btnConvert:hover{
+    background-color: rgb(12, 248, 12);
+}
+
+/*Classe divBtnConvert*/
+.divBtnConvert{
+    margin-top: 10px;
+    justify-content: right;
+}
+
+/*Classe result*/
+.result{
+    border: 1px solid black;
+    padding: 1px;
+    min-width: 20px;
+    text-align: center;
+}
