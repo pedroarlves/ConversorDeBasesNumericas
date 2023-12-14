@@ -17,6 +17,8 @@
 
 ## Instruções de utilização
 
-Para acessar o nosso sistema, existe duas opções. A primeira forma é entrando no link a seguir https://conversorbit.cs50brasil.repl.co/ . A segunda forma é baixar o nosso repositorio na sua maquina, ir codigo > indez.html.
+Para acessar o nosso sistema, existe duas opções. A primeira forma é entrando no link a seguir https://conversorbit.cs50brasil.repl.co/ . A segunda forma é baixar o nosso repositorio na sua maquina, ir em codigo > index.html.
 
 Para utilizar nosso sistema basta inserir o número no campo chamado "Número", selecionar a base atual no campo chamado "Base atual", selecionar a base para a qual o número será convertido no campo chamado "Base a ser Convertida" e depois clickar no botão verde chamado "Converter". Após a realização dessas instruções o resultado irá aparecer no campo chamado "Resultado".
+
+![Alt text](image.png)
